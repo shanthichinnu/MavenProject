@@ -10,6 +10,15 @@ public class CustomerModule {
 		
 	}
 
+	public void modifyCutomer() {
+		Reporter.log("modifyCutomer",true);
+		
+	}
+	public void deleteCutomer() {
+		Reporter.log("deleteCutomer",true);
+		
+	}
+
 	
 
 }
